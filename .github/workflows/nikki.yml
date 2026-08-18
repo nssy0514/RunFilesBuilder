@@ -5,7 +5,8 @@
 # Author: wukongdaily
 # Blog: wkdaily.cpolar.cn
 #=================================================
-
+permissions:
+  contents: write
 name: Make nikki run files for 23.05
 
 on:
