@@ -5,7 +5,8 @@
 # Author: wukongdaily
 # Blog: wkdaily.cpolar.cn
 #=================================================
-
+permissions:
+  contents: write
 name: NEW Make Passwall2 run files
 
 on:
